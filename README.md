@@ -1,2 +1,2 @@
 # mcgtransportes-rastreador
-App desenvolvid (front end) para uma entrevista de estágio
+App desenvolvido (front end) para uma entrevista de estágio
